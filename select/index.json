@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロック幸せ",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-19T12:46:30.456408Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロック幸せ",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_ロック幸せ_UNICORN.txt"
+    }
+  ]
+}
